@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "1/2\" Lakshmi",
+    "category": "One Sound Chakkars",
+    "listPrice": 20.7,
+    "offerPct": 50,
+    "salePrice": 10.35,
+    "unit": "1 Pkt",
+    "sourcePrice": 18.0,
+    "marginPct": 15
+  },
+  {
+    "id": 2,
+    "name": "3 1/2\" Lakshmi",
+    "category": "One Sound Chakkars",
+    "listPrice": 46.0,
+    "offerPct": 50,
+    "salePrice": 23.0,
+    "unit": "1 Pkt",
+    "sourcePrice": 40.0,
+    "marginPct": 15
+  },
+  {
+    "id": 3,
+    "name": "4\" Lakshmi",
+    "category": "One Sound Chakkars",
+    "listPrice": 92.0,
+    "offerPct": 50,
+    "salePrice": 46.0,
+    "unit": "1 Pkt",
+    "sourcePrice": 80.0,
+    "marginPct": 15
+  }
+]
